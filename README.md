@@ -7,7 +7,7 @@ It features a modular, server-authoritative architecture, procedurally generated
 
 ## 🌍 Game Overview
 
-Ironvale Online is set in a vast fantasy realm where players can explore diverse regions, fight monsters, gather resources, and engage in player-driven economies. The world blends handcrafted story arcs with procedural generation for replayability.
+Ironvale Online is set in a vast fantasy realm where players can explore diverse regions, fight monsters, gather resources, and engage in player-driven economies. It is meant to be similar to other MMORPG's like POE, WoW, and Runescape. Something that most RPG's don't allow, especially MMO games, is modding and there own servers and even scalable networks. This project is meant to be a game but more than that is to allow players to create there own worlds, servers, stories, and more. This project is open source so that you can create your own MMORPG one day.
 
 **Key Features:**
 - **Persistent World** – Server-authoritative state with seamless multiplayer.
@@ -113,8 +113,9 @@ cargo run -p client
 
 ## 📜 License
 
-[MIT](LICENSE-MIT)
-[APACHE](LICENSE-APACHE)
+[MIT LICENSE](LICENSE-MIT)
+
+[APACHE LICENSE](LICENSE-APACHE)
 
 ---
 
