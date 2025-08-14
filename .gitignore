@@ -1,0 +1,9 @@
+target/
+**/*.rs.bk
+# IDE
+.vscode/
+.idea/
+# Artifacts
+dist/
+# Env
+.env

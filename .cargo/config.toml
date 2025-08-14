@@ -1,0 +1,9 @@
+[alias]
+fmt = "fmt --all"
+clippy = "clippy --all-targets --all-features -- -D warnings"
+check-all = "check --workspace --all-targets"
+next = "nextest run --workspace"
+build-rel = "build --release"
+
+#[target.x86_64-unknown-linux-gnu]
+#rustflags = ["-C", "link-arg=-fuse-ld=lld"] # swap to mold if installed
